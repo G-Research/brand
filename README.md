@@ -15,6 +15,7 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 | Preview                                                                                                          | Hex Code  | Usage            |
 |------------------------------------------------------------------------------------------------------------------|-----------|------------------|
 | ![Color Primary](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00AAE1)  | `#00AAE1` | Primary          |
+| ![Color Accent](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00458D)   | `#00458D` | Accent           |
 | ![Color Light Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF) | `#FFFFFF` | Light Background |
 | ![Color Dark Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-020C1F)  | `#020C1F` | Dark Background  |
 
