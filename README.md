@@ -12,10 +12,10 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 
 ## Colors
 
-| Preview                                                               | Hex Code  | Usage   |
-|-----------------------------------------------------------------------|-----------|---------|
-| ![Color: Primary](./colors/primary-40ACDC.png)                        | `#40ACDC` | Primary |
-| <p style="width: 64px; height: 64px; background-color: #40ACDC;"></p> | `#40ACDC` | Primary |
+| Preview                                                         | Hex Code  | Usage   |
+|-----------------------------------------------------------------|-----------|---------|
+| ![Color Primary](https://img.shields.io/badge/%2340ACDC-40ACDC) | `#40ACDC` | Primary |
+
 
 ## Copyright
 
