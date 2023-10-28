@@ -16,10 +16,15 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 |------------------------------------------------|-----------|---------|
 | ![Color: Primary](./colors/primary-40ACDC.png) | `#40ACDC` | Primary |
 
-## License
+## Copyright
 
-The G-Research Brand is licensed under
-the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](./LICENSE).
+Copyright (C) G-Research - All Rights Reserved.
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](./LICENSE)
+```text
+THE CONTENTS OF THIS PROJECT ARE OWNED BY G-RESEARCH AND PROTECTED BY COPYRIGHT AND OTHER LAWS.
+NO LICENSE IS GRANTED.  
+UNAUTHORIZED COPYING, USE, DISPLAY, REPRODUCTION, DISTRIBUTION, OR PREPARATION OF DERIVATIVE WORKS OF THE CONTENTS OF THIS PROJECT IS PROHIBITED.
+```
+
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](./NOTICE)
 [![Logo: G-Research](./badge/badge.svg)](https://github.com/G-Research)
