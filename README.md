@@ -12,9 +12,10 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 
 ## Colors
 
-| Preview                                        | Hex Code  | Usage   |
-|------------------------------------------------|-----------|---------|
-| ![Color: Primary](./colors/primary-40ACDC.png) | `#40ACDC` | Primary |
+| Preview                                                                   | Hex Code  | Usage   |
+|---------------------------------------------------------------------------|-----------|---------|
+| ![Color: Primary](./colors/primary-40ACDC.png)                            | `#40ACDC` | Primary |
+| <div style="width: 64px; height: 64px; background-color: #40ACDC;"></div> | `#40ACDC` | Primary |
 
 ## Copyright
 
