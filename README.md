@@ -12,13 +12,14 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 
 ## Colors
 
-| Preview                                                                                                          | Hex Code  | Usage            |
-|------------------------------------------------------------------------------------------------------------------|-----------|------------------|
-| ![Color Primary](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00AAE1)  | `#00AAE1` | Primary          |
-| ![Color Accent](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00458D)   | `#00458D` | Accent           |
-| ![Color Light Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF) | `#FFFFFF` | Light Background |
-| ![Color Dark Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-020C1F)  | `#020C1F` | Dark Background  |
-
+| Preview                                                                                                          | Hex Code  | Usage    |
+|------------------------------------------------------------------------------------------------------------------|-----------|----------|
+| ![Color Primary](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-0D72FF)  | `#0D72FF` | Primary  |
+| ![Color Accent 1](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-F7FF1C) | `#F7FF1C` | Accent 1 |
+| ![Color Accent 2](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-41F3F9) | `#41F3F9` | Accent 2 |
+| ![Color Light](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF)    | `#FFFFFF` | Light    |
+| ![Color Dark](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-000000)     | `#000000` | Dark     |
+| ![Color Gray](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-F0EFEF)     | `#F0EFEF` | Gray     |
 
 ## Copyright
 
