@@ -1,9 +1,8 @@
-<h1 align="center">
-    <a href="https://github.com/G-Research">
-        <img src="https://raw.githubusercontent.com/naskio/g-research-branding/main/logo/G-Research OSS/logo.svg" height="128px" alt="G-Research">
-    </a>
-</h1>
-<h2 align="center">G-Research/Brand</h2>
+<h2 align="center">
+    <a href="https://github.com/G-Research"><img src="./logo/GR-OSS/logo.svg" height="128px" alt="G-Research"></a>
+    <br>
+    <span>G-Research/Brand</span>
+</h2>
 
 ## Introduction
 
@@ -18,7 +17,6 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 | ![Color Accent](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00458D)   | `#00458D` | Accent           |
 | ![Color Light Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF) | `#FFFFFF` | Light Background |
 | ![Color Dark Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-020C1F)  | `#020C1F` | Dark Background  |
-
 
 ## Copyright
 
