@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://github.com/G-Research"><img src="./logo/logo.svg" height="128px" alt="G-Research"></a>
+    <a href="https://github.com/G-Research"><img src="logo/GR-OSS/logo.svg" height="128px" alt="G-Research"></a>
     <br>
     <br>
     <span>G-Research/Brand</span>
