@@ -1,5 +1,6 @@
 <h2 align="center">
-    <a href="https://github.com/G-Research"><img src="./logo/GR-OSS/logo.svg" height="128px" alt="G-Research"></a>
+    <a href="https://github.com/G-Research"><img src="logo/GR-OSS/logo.svg" height="128px" alt="G-Research"></a>
+    <br>
     <br>
     <span>G-Research/Brand</span>
 </h2>
@@ -11,12 +12,15 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 
 ## Colors
 
-| Preview                                                                                                          | Hex Code  | Usage            |
-|------------------------------------------------------------------------------------------------------------------|-----------|------------------|
-| ![Color Primary](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00AAE1)  | `#00AAE1` | Primary          |
-| ![Color Accent](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-00458D)   | `#00458D` | Accent           |
-| ![Color Light Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF) | `#FFFFFF` | Light Background |
-| ![Color Dark Bg](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-020C1F)  | `#020C1F` | Dark Background  |
+| Preview                                                                                                                    | Hex Code  | Usage              |
+|----------------------------------------------------------------------------------------------------------------------------|-----------|--------------------|
+| ![Color Black](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-000000)              | `#000000` | Black              |
+| ![Color White](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-FFFFFF)              | `#FFFFFF` | White              |
+| ![Color Accent 1](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-E5FC54)           | `#E5FC54` | Accent 1           |
+| ![Color Accent 2](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-0F25F2)           | `#0F25F2` | Accent 2           |
+| ![Color Dark Background](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-262626)    | `#262626` | Dark Background    |
+| ![Color Light Background 1](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-B2B2B2) | `#B2B2B2` | Light Background 1 |
+| ![Color Light Background 2](https://img.shields.io/badge/%7F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7F-F0EFEF) | `#F0EFEF` | Light Background 2 |
 
 ## Copyright
 
